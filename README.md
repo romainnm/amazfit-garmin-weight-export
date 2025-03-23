@@ -1,0 +1,1 @@
+# amazfit-garmin-weight-export
